@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\Object Oriented\\OOP Assng 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8973431-3EF5-4634-B9C8-610CAED592B6}|OOP Assignment 4.csproj|c:\\src\\object oriented\\oop assng 4\\clubmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8973431-3EF5-4634-B9C8-610CAED592B6}|OOP Assignment 4.csproj|solutionrelative:clubmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8973431-3EF5-4634-B9C8-610CAED592B6}|OOP Assignment 4.csproj|c:\\src\\object oriented\\oop assng 4\\run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8973431-3EF5-4634-B9C8-610CAED592B6}|OOP Assignment 4.csproj|solutionrelative:run.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8973431-3EF5-4634-B9C8-610CAED592B6}|OOP Assignment 4.csproj|c:\\src\\object oriented\\oop assng 4\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8973431-3EF5-4634-B9C8-610CAED592B6}|OOP Assignment 4.csproj|solutionrelative:ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8973431-3EF5-4634-B9C8-610CAED592B6}|OOP Assignment 4.csproj|c:\\src\\object oriented\\oop assng 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8973431-3EF5-4634-B9C8-610CAED592B6}|OOP Assignment 4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Run.cs",
+              "DocumentMoniker": "C:\\src\\Object Oriented\\OOP Assng 4\\Run.cs",
+              "RelativeDocumentMoniker": "Run.cs",
+              "ToolTip": "C:\\src\\Object Oriented\\OOP Assng 4\\Run.cs",
+              "RelativeToolTip": "Run.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:29:31.74Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\src\\Object Oriented\\OOP Assng 4\\UI.cs",
+              "RelativeDocumentMoniker": "UI.cs",
+              "ToolTip": "C:\\src\\Object Oriented\\OOP Assng 4\\UI.cs",
+              "RelativeToolTip": "UI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:29:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClubMember.cs",
+              "DocumentMoniker": "C:\\src\\Object Oriented\\OOP Assng 4\\ClubMember.cs",
+              "RelativeDocumentMoniker": "ClubMember.cs",
+              "ToolTip": "C:\\src\\Object Oriented\\OOP Assng 4\\ClubMember.cs",
+              "RelativeToolTip": "ClubMember.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:29:29.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\src\\Object Oriented\\OOP Assng 4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\src\\Object Oriented\\OOP Assng 4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:29:30.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
