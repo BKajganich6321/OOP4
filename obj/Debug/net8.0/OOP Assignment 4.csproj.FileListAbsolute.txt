@@ -12,3 +12,18 @@ C:\src\Object Oriented\OOP Assng 4\obj\Debug\net8.0\refint\OOP Assignment 4.dll
 C:\src\Object Oriented\OOP Assng 4\obj\Debug\net8.0\OOP Assignment 4.pdb
 C:\src\Object Oriented\OOP Assng 4\obj\Debug\net8.0\OOP Assignment 4.genruntimeconfig.cache
 C:\src\Object Oriented\OOP Assng 4\obj\Debug\net8.0\ref\OOP Assignment 4.dll
+C:\src\OOP\OOP4\bin\Debug\net8.0\OOP Assignment 4.exe
+C:\src\OOP\OOP4\bin\Debug\net8.0\OOP Assignment 4.deps.json
+C:\src\OOP\OOP4\bin\Debug\net8.0\OOP Assignment 4.runtimeconfig.json
+C:\src\OOP\OOP4\bin\Debug\net8.0\OOP Assignment 4.dll
+C:\src\OOP\OOP4\bin\Debug\net8.0\OOP Assignment 4.pdb
+C:\src\OOP\OOP4\obj\Debug\net8.0\OOP Assignment 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\src\OOP\OOP4\obj\Debug\net8.0\OOP Assignment 4.AssemblyInfoInputs.cache
+C:\src\OOP\OOP4\obj\Debug\net8.0\OOP Assignment 4.AssemblyInfo.cs
+C:\src\OOP\OOP4\obj\Debug\net8.0\OOP Assignment 4.csproj.CoreCompileInputs.cache
+C:\src\OOP\OOP4\obj\Debug\net8.0\OOP Assignment 4.sourcelink.json
+C:\src\OOP\OOP4\obj\Debug\net8.0\OOP Assignment 4.dll
+C:\src\OOP\OOP4\obj\Debug\net8.0\refint\OOP Assignment 4.dll
+C:\src\OOP\OOP4\obj\Debug\net8.0\OOP Assignment 4.pdb
+C:\src\OOP\OOP4\obj\Debug\net8.0\OOP Assignment 4.genruntimeconfig.cache
+C:\src\OOP\OOP4\obj\Debug\net8.0\ref\OOP Assignment 4.dll

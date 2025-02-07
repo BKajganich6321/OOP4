@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\Object Oriented\\OOP Assng 4\\OOP Assignment 4.csproj": {}
+    "C:\\src\\OOP\\OOP4\\OOP Assignment 4.csproj": {}
   },
   "projects": {
-    "C:\\src\\Object Oriented\\OOP Assng 4\\OOP Assignment 4.csproj": {
+    "C:\\src\\OOP\\OOP4\\OOP Assignment 4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\Object Oriented\\OOP Assng 4\\OOP Assignment 4.csproj",
+        "projectUniqueName": "C:\\src\\OOP\\OOP4\\OOP Assignment 4.csproj",
         "projectName": "OOP Assignment 4",
-        "projectPath": "C:\\src\\Object Oriented\\OOP Assng 4\\OOP Assignment 4.csproj",
-        "packagesPath": "C:\\Users\\Brad\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\Object Oriented\\OOP Assng 4\\obj\\",
+        "projectPath": "C:\\src\\OOP\\OOP4\\OOP Assignment 4.csproj",
+        "packagesPath": "C:\\Users\\bkajg\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\OOP\\OOP4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Brad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\bkajg\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

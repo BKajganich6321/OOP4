@@ -15,7 +15,7 @@ namespace OOP_Assignment_4
             ClubMember madhan = new ClubMember();
             ClubMember norbert = new ClubMember();
             ClubMember sean = new ClubMember();
-
+                                                                                                                                                                                
             brad.SetAllData("Brad", "Kajganich",
                 "Kajganich6321@conestogac.on.ca", new DateTime(1991, 12, 25));
 

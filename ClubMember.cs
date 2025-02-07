@@ -28,7 +28,7 @@ namespace OOP_Assignment_4
             DateTime currentDate = DateTime.Today;
             int currentYear = currentDate.Year;
             int age = currentYear - dob.Year;
-            if (dob.Month <= currentDate.Month &&
+            if (dob.Month >= currentDate.Month &&
                 dob.Day > currentDate.Day)
             {
                 age--;
@@ -45,8 +45,5 @@ namespace OOP_Assignment_4
             memberEmail = email;
             dob = birthday; 
         }
-
-
-        
     }
 }
